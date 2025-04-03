@@ -25,7 +25,7 @@ winsound.Beep(659, 500)  # Even higher pitch
 t.forward(100)
 
 # Final sound when done
-winsound.Beep(880, 700)  # Completion sound
+winsound.Beep(880, 700)  # Completion sound only
 
 # Keep the window open
 turtle.done()
